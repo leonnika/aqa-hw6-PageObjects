@@ -61,4 +61,6 @@ java -jar ./artifacts/app-ibank-build-for-testers.jar
 
 [Ошибочный перевод на балансе на карте меньше суммы перевода](https://github.com/leonnika/aqa-hw6-PageObjects/issues/1)
 
+[Ошибочное выполнение перевода при указании одного номера карты(от и куда)](https://github.com/leonnika/aqa-hw6-PageObjects/issues/2)
+
 
